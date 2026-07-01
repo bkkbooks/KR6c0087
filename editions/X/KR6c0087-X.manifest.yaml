@@ -1,0 +1,142 @@
+canonical_identifier: bkk:krp/KR6c0087/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0087/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛經法眼懸判疏鈔
+  identifiers:
+    krp: KR6c0087
+    cbeta: X25n0499
+    cbeta_old_id: X25n0499
+    authorityid: CA0001682
+    json_key: X0499
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0499.xml
+    old_id: X25n0499
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0087_000-X.yaml, hash: 'sha256:a3a3f89397b2b01abd686260c623d11822cd5f18b5a271b9f014b50166dac72c'}
+  - {seq: 1, filename: KR6c0087_001-X.yaml, hash: 'sha256:2f1dc86ec5b7815029caf046cbf412574ed7f660cdc4eef95df1f90203be2af4'}
+  - {seq: 2, filename: KR6c0087_002-X.yaml, hash: 'sha256:a14fa8e1a3c27dde41c24222e07f548808f2ced78afecc1c6a7e566b63079c8e'}
+  - {seq: 3, filename: KR6c0087_003-X.yaml, hash: 'sha256:1dcf4a827e8eb4909b6db651a1f63e3f3cf4b001e12a7299505108b02f9fcf56'}
+  - {seq: 4, filename: KR6c0087_004-X.yaml, hash: 'sha256:4c243e0f5f2f7de64e77e953d40a35dd3d8a7845a778c79e861d4a328fefa1fe'}
+  - {seq: 5, filename: KR6c0087_005-X.yaml, hash: 'sha256:0e4073e46f1eb1ea01da68e07bc49a156df9604862f6d80a5c04f90d88d7a2fc'}
+  - {seq: 6, filename: KR6c0087_006-X.yaml, hash: 'sha256:dcd141e1d19370e28f2e099888bc885440fb9913368b36ecbf20ad4624940e73'}
+  - {seq: 7, filename: KR6c0087_007-X.yaml, hash: 'sha256:4c2ce457c0c4d8d0d4af7a419dce4e7bf6e1949a2c1d7147109ac69169073e22'}
+  - {seq: 8, filename: KR6c0087_008-X.yaml, hash: 'sha256:36314c7e988eb05f9dc4dbef13bc54a1c623a479da7b13eaae0eb3012cf9a7dd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0087_000-X.markers.yaml, hash: 'sha256:54804c77c4d65442665cd727020ddeaa99bb0c335e988694fdf0064bbf1c15e6'}
+  - {seq: 1, role: markers, filename: assets/KR6c0087_001-X.markers.yaml, hash: 'sha256:80bcecc03ff0f5054a5a795fd0cc399356fc8a237ed0fd693dd48a1285fbd540'}
+  - {seq: 2, role: markers, filename: assets/KR6c0087_002-X.markers.yaml, hash: 'sha256:546210a95d5a1e89cbbc5d554be7688c1ed11ef54f7417a26c82ee6956871935'}
+  - {seq: 3, role: markers, filename: assets/KR6c0087_003-X.markers.yaml, hash: 'sha256:d30b5242423076785dd4aaa7a417eb0df70648ad7fa7c7ced71286a395519dc7'}
+  - {seq: 4, role: markers, filename: assets/KR6c0087_004-X.markers.yaml, hash: 'sha256:a56542ec65af24c8c64ac8b6b3be589dd550901519a1361858f0f292061097e5'}
+  - {seq: 5, role: markers, filename: assets/KR6c0087_005-X.markers.yaml, hash: 'sha256:bd841e1e60ecb9741aa097b425bfff8796c072cbb3a50e489fe5bb44ab5dd2d4'}
+  - {seq: 6, role: markers, filename: assets/KR6c0087_006-X.markers.yaml, hash: 'sha256:0fafd034cdcaea1b58e4e209d0d62eed78a338cabbdd609661da053991c5c990'}
+  - {seq: 7, role: markers, filename: assets/KR6c0087_007-X.markers.yaml, hash: 'sha256:d6c64c0587653cad22e11270d6b431b540a4fb9ec35f2b8f7d5099a984b222c7'}
+  - {seq: 8, role: markers, filename: assets/KR6c0087_008-X.markers.yaml, hash: 'sha256:776a0ab528d34709df52bad64b4ec69a4ddf69d950a081f185d8323ecd04c2bf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0087_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 499-A 金剛般若波羅蜜經懸判疏鈔卷序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0087_X_000-mulu-2
+    span:
+    - front
+    - 6193
+    - 6193
+  label: 金剛般若波羅蜜經懸判疏鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0087_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4788
+  label: 金剛般若波羅蜜經懸判疏鈔卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0087_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 5259
+  label: 金剛般若波羅蜜經懸判疏鈔卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0087_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 1763
+  label: 金剛般若波羅蜜經懸判疏鈔卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0087_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 4064
+  label: 金剛般若波羅蜜經懸判疏鈔卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6c0087_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 6375
+  label: 金剛般若波羅蜜經懸判疏鈔卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6c0087_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 4141
+  label: 金剛般若波羅蜜經懸判疏鈔卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6c0087_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 1809
+  label: 金剛般若波羅蜜經懸判疏鈔卷之七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6c0087_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 1963
+  label: 金剛般若波羅蜜經懸判疏鈔卷之八
+  type: juan
+  level: 1
+hash: sha256:239e4c29ae0d6b4f2b1143793fc19e404d4c7e7915a578ad3accd82f0a500ce8
