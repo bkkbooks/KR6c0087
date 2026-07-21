@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0087_000.yaml, hash: 'sha256:f568837152df3d0abbeec73b08ad784d04a3135db62743c2dbf51a137dddb102'}
+  - {seq: 0, filename: KR6c0087_000.yaml, hash: 'sha256:a40401719761e4ca90b0047f5008a5ebf6f0967ad9f314c70516ebe80e4c3a4d'}
   - {seq: 1, filename: KR6c0087_001.yaml, hash: 'sha256:a8c396e76627e96f3686e066f1fdea12b8c0ca2daf8a07557d4355efabc0a152'}
   - {seq: 2, filename: KR6c0087_002.yaml, hash: 'sha256:1cef733825504bd402d12c0691100c13410337fdcf91b4dd29c5a2812aab9855'}
   - {seq: 3, filename: KR6c0087_003.yaml, hash: 'sha256:681dec1574f720606f5a729dddc6a0fae46dfcc69020e416c9da0f1b8b4c6816'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6c0087_007.yaml, hash: 'sha256:704a206db11496218db5ba3a9547e0437e01520107f1e19ff849dd1c090dcb2d'}
   - {seq: 8, filename: KR6c0087_008.yaml, hash: 'sha256:a0e98257e1b6346c0f286938d76cb4b5f08b97d9f5b8a028ec69d3dd74ac694a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0087_000.markers.yaml, hash: 'sha256:a6f2e61eab8f97948c1c872896397dd9dac0aa9e24dd25bf5d886378d57ec467'}
+  - {seq: 0, role: markers, filename: assets/KR6c0087_000.markers.yaml, hash: 'sha256:0d65cd0f063bf63574b842b8d7f50cf14c8539e7a19ea33ad545e78604583b0d'}
   - {seq: 1, role: markers, filename: assets/KR6c0087_001.markers.yaml, hash: 'sha256:783ea47404644f5a542303c18fb5e9ad731fc574e816d95eddaadf95c415d100'}
   - {seq: 2, role: markers, filename: assets/KR6c0087_002.markers.yaml, hash: 'sha256:efb8872d3855418084537a642f30e1c34febee0b664d287b395c8bc309945ab8'}
   - {seq: 3, role: markers, filename: assets/KR6c0087_003.markers.yaml, hash: 'sha256:e3fe4be2d9a9c8cdbcad94dafce270ff21e685d282e73b23a465f989173c6e48'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0087_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 499-A 金剛般若波羅蜜經懸判疏鈔卷序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0087_X_000-mulu-2
     span:
-    - front
+    - body
     - 6193
     - 6193
   label: 金剛般若波羅蜜經懸判疏鈔
@@ -141,7 +141,7 @@ table_of_contents:
   label: 金剛般若波羅蜜經懸判疏鈔卷之八
   type: juan
   level: 1
-hash: sha256:26c8425f9906e52401269cf903aa220585ad8778b8a90a126506152e398c394c
+hash: sha256:25514ecba61d3abbf14deb9f9abd30a02724b7a76e4d88468ccdd97588f44905
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
